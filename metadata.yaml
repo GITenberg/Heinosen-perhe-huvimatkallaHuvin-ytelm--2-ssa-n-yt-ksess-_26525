@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32069
     wikipedia: http://sv.wikipedia.org/wiki/Frans_Hodell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26525#Heinosen-perhe-huvimatkallaHuvin-ytelm--2-ssa-n-yt-ksess-
 gutenberg_issued: '2008-09-04'
 gutenberg_type: Text
 identifiers:
